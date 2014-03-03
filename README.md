@@ -1,4 +1,10 @@
 MegaProduction
 ==============
 
-Etude de cas : MegaCasting
+Etude de cas : MegaCastings
+==============
+
+Auteurs :
+	-> MARCHAL Pierre
+	-> PEREIRA Damien
+	-> SUPIOT Théodore
